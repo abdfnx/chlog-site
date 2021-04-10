@@ -12,7 +12,13 @@ jobs:
         with:
           hugo-version: "latest"
 
-      - run: hugo
+      - run: |
+          git clone https://github.com/abdfnx/hugo-changelog-theme themes/changelog-theme
+          cd themes/changelog-theme/assets
+          git clone https://github.com/picturepan2/spectre
+          cd ../../../
+          hugo
+
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: "${{ secrets.GITHUB_TOKEN }}"
