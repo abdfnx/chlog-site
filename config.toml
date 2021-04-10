@@ -1,0 +1,5 @@
+baseURL = "https://secman-chlog.web.app"
+languageCode = "en-us"
+title = "Secman Changelog"
+
+theme = "changelog-theme"

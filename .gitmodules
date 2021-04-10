@@ -1,0 +1,3 @@
+[submodule "themes/changelog-theme"]
+	path = themes/changelog-theme
+	url = https://github.com/abdfnx/hugo-changelog-theme.git
