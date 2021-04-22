@@ -1,0 +1,6 @@
+baseURL: "https://secman-chlog.web.app"
+languageCode: "en-us"
+title: "Secman Changelog"
+theme: "changelog-theme"
+
+f_url: https://db.onlinewebfonts.com/t/294afa63edf49dc293dd90373066b4d4
