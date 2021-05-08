@@ -1,4 +1,4 @@
-# [<img src="https://imgs-secman.web.app/glitsh_sm.png" align="center">][smUrl] changelog site
+# [<img src="https://imgs-secman.web.app/icon.svg" width="100px" align="center">][smUrl] changelog site
 
 site for secman changelogs built by [**hugo**](https://gohugo.io)
 
