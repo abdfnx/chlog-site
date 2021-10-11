@@ -1,4 +1,4 @@
-baseURL: "https://secman-chlog.web.app"
+baseURL: "https://changelog.secman.dev"
 languageCode: "en-us"
 title: "Secman Changelog"
 theme: "changelog-theme"
